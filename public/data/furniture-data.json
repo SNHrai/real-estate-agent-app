@@ -1,0 +1,151 @@
+{
+  "sofa": [
+    {
+      "id": 1,
+      "name": "Modern L-Shaped Sofa",
+      "description": "Comfortable and stylish L-shaped sofa for your living room",
+      "price": 45000,
+      "seating": "3-seater",
+      "material": "Fabric",
+      "image": "/assets/l-shaped-sofa.jpg",
+      "type": "sofa",
+      "dimensions": "200x60x220"
+    },
+    {
+      "id": 2,
+      "name": "Classic Chesterfield Sofa",
+      "description": "Elegant and timeless Chesterfield sofa with tufted leather",
+      "price": 55000,
+      "seating": "3-seater",
+      "material": "Leather",
+      "image": "/assets/chesterfield-sofa.jpg",
+      "type": "sofa",
+      "dimensions": "200x60x220"
+    },
+    {
+      "id": 3,
+      "name": "Sectional Sofa with Chaise",
+      "description": "Versatile sectional sofa with a comfortable chaise lounge",
+      "price": 65000,
+      "seating": "5-seater",
+      "material": "Microfiber",
+      "image": "/assets/sectional-sofa.jpg",
+      "type": "sofa",
+      "dimensions": "200x60x220"
+    },
+    {
+      "id": 4,
+      "name": "Compact Loveseat",
+      "description": "Space-saving loveseat perfect for small apartments",
+      "price": 30000,
+      "seating": "2-seater",
+      "material": "Polyester",
+      "image": "/assets/loveseat.jpg",
+      "type": "sofa"
+    },
+    {
+      "id": 5,
+      "name": "Reclining Sofa",
+      "description": "Comfortable reclining sofa with built-in cup holders",
+      "price": 70000,
+      "seating": "3-seater",
+      "material": "Faux Leather",
+      "image": "/assets/reclining-sofa.jpg",
+      "type": "sofa"
+    },
+    {
+      "id": 6,
+      "name": "Modular Sofa Set",
+      "description": "Customizable modular sofa set for flexible seating arrangements",
+      "price": 80000,
+      "seating": "6-seater",
+      "material": "Linen",
+      "image": "/assets/modular-sofa.jpg",
+      "type": "sofa"
+    },
+    {
+      "id": 7,
+      "name": "Tuxedo Sofa",
+      "description": "Sleek and modern tuxedo sofa with clean lines",
+      "price": 50000,
+      "seating": "3-seater",
+      "material": "Velvet",
+      "image": "/assets/tuxedo-sofa.jpg",
+      "type": "sofa"
+    },
+    {
+      "id": 8,
+      "name": "Convertible Futon Sofa",
+      "description": "Versatile futon sofa that easily converts into a bed",
+      "price": 25000,
+      "seating": "3-seater",
+      "material": "Cotton Blend",
+      "image": "/assets/futon-sofa.jpg",
+      "type": "sofa"
+    }
+  ],
+  "bed": [
+    {
+      "id": 1,
+      "name": "Queen Size Platform Bed",
+      "description": "Elegant platform bed with built-in storage",
+      "price": 35000,
+      "size": "Queen",
+      "material": "Wood",
+      "image": "/assets/platform-bed.jpg",
+      "type": "bed"
+    },
+    {
+      "id": 2,
+      "name": "King Size Canopy Bed",
+      "description": "Luxurious canopy bed with intricate detailing",
+      "price": 60000,
+      "size": "King",
+      "material": "Metal",
+      "image": "/assets/canopy-bed.jpg",
+      "type": "bed"
+    },
+    {
+      "id": 3,
+      "name": "Twin Bunk Bed",
+      "description": "Space-saving bunk bed perfect for kids' rooms",
+      "price": 40000,
+      "size": "Twin",
+      "material": "Wood",
+      "image": "/assets/bunk-bed.jpg",
+      "type": "bed"
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": 1,
+      "name": "3-Door Sliding Wardrobe",
+      "description": "Spacious wardrobe with mirror and LED lighting",
+      "price": 55000,
+      "doors": 3,
+      "material": "MDF with laminate finish",
+      "image": "/assets/sliding-wardrobe.jpg",
+      "type": "wardrobe"
+    },
+    {
+      "id": 2,
+      "name": "4-Door Hinged Wardrobe",
+      "description": "Classic hinged wardrobe with ample storage space",
+      "price": 65000,
+      "doors": 4,
+      "material": "Solid Wood",
+      "image": "/assets/hinged-wardrobe.jpg",
+      "type": "wardrobe"
+    },
+    {
+      "id": 3,
+      "name": "Walk-in Closet System",
+      "description": "Customizable walk-in closet system for ultimate organization",
+      "price": 100000,
+      "doors": 0,
+      "material": "Modular Components",
+      "image": "/assets/walk-in-closet.jpg",
+      "type": "wardrobe"
+    }
+  ]
+}

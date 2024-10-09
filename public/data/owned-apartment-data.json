@@ -1,0 +1,104 @@
+{
+  "ownedProperties": [
+    {
+      "id": 1,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "6,00,000",
+      "address": "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "owner": {
+        "name": "John Doe",
+        "contact": "john@example.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Cozy Shop in City Center",
+      "type": "shop",
+      "status": "available",
+      "areaSqFit": "580",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "8,00,000",
+      "address": "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "owner": {
+        "name": "Jane Doe",
+        "contact": "jane@example.com"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "6,00,000",
+      "address": "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "owner": {
+        "name": "Bob Smith",
+        "contact": "bob@example.com"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "25,00,000",
+      "address": "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "owner": {
+        "name": "Alice Johnson",
+        "contact": "alice@example.com"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "3,00,000",
+      "address": "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "owner": {
+        "name": "Mike Brown",
+        "contact": "mike@example.com"
+      }
+    }
+  ]
+}

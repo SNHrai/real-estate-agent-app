@@ -1,0 +1,310 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+  //humor
+  @font-face {
+    font-family: "LTHumor5Bck";
+    src: url("fonts/LTHumor5-1/LTHumor-Black.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LTHumor5BI";
+    src: url("fonts/LTHumor5-1/LTHumor-BlackItalic.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LTHumor5Bold";
+    src: url("fonts/LTHumor5-1/LTHumor-Bold.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LTHumor5ExBold";
+    src: url("fonts/LTHumor5-1/LTHumor-ExtraBold.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LTHumor5light";
+    src: url("fonts/LTHumor5-1/LTHumor-Light.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LTHumor5Reg";
+    src: url("fonts/LTHumor5-1/LTHumor-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LTHumor5semiB";
+    src: url("fonts/LTHumor5-1/LTHumor-SemiBold.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LTHumor5med";
+    src: url("fonts/LTHumor5-1/LTHumor-Medium.ttf") format("truetype");
+  }
+
+  //Wave
+
+  @font-face {
+    font-family: "LTWave";
+    src: url("fonts/LTWave-3/LTWave-Bold.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTWaveLig";
+    src: url("fonts/LTWave-3/LTWave-Light.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTWaveMed";
+    src: url("fonts/LTWave-3/LTWave-Medium.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTWaveReg";
+    src: url("fonts/LTWave-3/LTWave-Regular.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "LTWaveTh";
+    src: url("fonts/LTWave-3/LTWave-Thin.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "LTWaveTB";
+    src: url("fonts/LTWave-3/LTWaveAlt-Bold.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTWaveAR";
+    src: url("fonts/LTWave-3/LTWaveAlt-Regular.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "LTWave";
+    src: url("fonts/LTWave-3/LTWaveAlt-Medium.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTSaeadaReg";
+    src: url("fonts/LTSaeada-3/LTSaeada-Regular.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTSaeadaBold";
+    src: url("fonts/LTSaeada-3/LTSaeada-Bold.otf") format("opentype");
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "LTSaeadaBlack";
+    src: url("fonts/LTSaeada-3/LTSaeada-Black.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTSaeadaLight";
+    src: url("fonts/LTSaeada-3/LTSaeada-ExtraLight.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTSaeadaHar";
+    src: url("fonts/LTSaeada-3/LTSaeada-Hairline.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTSaeadaMed";
+    src: url("fonts/LTSaeada-3/LTSaeada-Medium.otf") format("opentype");
+    
+  }
+  @font-face {
+    font-family: "LTSaeadaThin";
+    src: url("fonts/LTSaeada-3/LTSaeada-Thin.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "LTBeverage";
+    src: url("fonts/LTBeverage/LT\ Beverage.otf") format("opentype");
+  }
+
+  //Maryanta
+  // @font-face {
+  //   font-family: "MaryantaReg";
+  //   src: url("fonts/Marynata-Typeface-main/Marynata-Typeface-main/Marynata-BETA-Regular.otf") format("opentype");
+  // }
+
+    //overusedGrotesk
+    @font-face {
+      font-family: "MaryantaReg";
+      src: url("fonts/otf/OverusedGrotesk-Light.otf") format("opentype");
+    }
+
+  .amt{
+    font-family: "LTBeverage";
+  }
+
+.main-title{
+    font-family: "LTSaeadaBold";
+}
+
+.tag-text{
+    // font-family: "LTSaeadaHar";
+    font-family: "LTSaeadaThin";
+}
+
+.text-add{
+    font-family: "LTSaeadaHar";
+}
+
+.btn-font{
+    font-family: "LTSaeadaMed";
+}
+
+.mb-txt{
+    font-family: "LTWaveLig";
+}
+
+.fm-txt{
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.toggle_container {
+  display: flex;
+  justify-content: center;
+
+  .switches-container {
+      position: relative;
+      display: flex;
+      padding: 0;
+      position: relative;
+      background: #f3f4f6;
+      line-height: 2.5rem;
+      border-radius: 0.3rem;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  /* input (radio) for toggling. hidden - use labels for clicking on */
+  .switches-container input {
+      visibility: hidden;
+      position: absolute;
+      top: 0;
+  }
+
+  /* labels for the input (radio) boxes - something to click on */
+  .switches-container label {
+      width: 50%;
+      padding: 0;
+      margin: 0;
+      text-align: center;
+      cursor: pointer;
+      color: rgb(0, 0, 0);
+      font-family: "LTSaeadaMed";
+      z-index: 100;
+  }
+
+  /* switch highlighters wrapper (sliding left / right) 
+        - need wrapper to enable the even margins around the highlight box
+    */
+  .switch-wrapper {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 50%;
+      padding: 0.15rem;
+      z-index: 3;
+      transition: transform 0.3s cubic-bezier(0.77, 0, 0.175, 1);
+      /* transition: transform 1s; */
+  }
+
+  .quick-quote {
+      font-family: "LTSaeadaMed";
+      font-size: 20px;
+      color: rgb(39, 92, 32);
+  }
+
+  /* switch box highlighter */
+  .switch {
+      border-radius: 0.3rem;
+      background: #6366f1;
+      height: 100%;
+      font-family:  "LTSaeadaMed";
+  }
+
+  /* switch box labels
+        - default setup
+        - toggle afterwards based on radio:checked status 
+    */
+  .switch div {
+      width: 100%;
+      text-align: center;
+      opacity: 0;
+      display: block;
+      color: #ffffff;
+      transition: opacity 0.1s cubic-bezier(0.77, 0, 0.175, 1) 0.125s;
+      will-change: opacity;
+      position: absolute;
+      top: 0;
+      left: 0;
+  }
+
+  /* slide the switch box from right to left */
+  .switches-container input:nth-of-type(1):checked ~ .switch-wrapper {
+      transform: translateX(0%);
+  }
+
+  /* slide the switch box from left to right */
+  .switches-container input:nth-of-type(2):checked ~ .switch-wrapper {
+      transform: translateX(100%);
+  }
+
+  .switches-container input:nth-of-type(1):checked ~ .switch-wrapper:dir(rtl) {
+      transform: translateX(0%);
+  }
+
+  /* slide the switch box from left to right */
+  .switches-container input:nth-of-type(2):checked ~ .switch-wrapper:dir(rtl) {
+      transform: translateX(-100%);
+  }
+
+  /* toggle the switch box labels - first checkbox:checked - show first switch div */
+  .switches-container input:nth-of-type(1):checked ~ .switch-wrapper .switch div:nth-of-type(1) {
+      opacity: 1;
+  }
+
+  /* toggle the switch box labels - second checkbox:checked - show second switch div */
+  .switches-container input:nth-of-type(2):checked ~ .switch-wrapper .switch div:nth-of-type(2) {
+      opacity: 1;
+  }
+}
+
+.range-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #6366f1;
+  cursor: pointer;
+}
+
+.range-slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #6366f1;
+  cursor: pointer;
+}
+
+
+// .path-animation {
+//   stroke-dashoffset: 100;
+//   animation: dash 5s linear infinite;
+// }
+
+// @keyframes dash {
+//   to {
+//     stroke-dashoffset: 0;
+//   }
+// }
+
+/* Add this to your CSS file or styled-components */
+.slick-slide {
+  padding: 0 10px;
+}
+
+.slick-list {
+  margin: 0 -10px;
+}

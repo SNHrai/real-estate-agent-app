@@ -1,0 +1,48 @@
+.profile-name {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: none;
+  }
+
+  .btn-items {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 14px;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration: none;
+  }
+
+  .card-items {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: none;
+  }
+
+  .custom-light{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: none;
+  }
+
+.profile-card-details{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}

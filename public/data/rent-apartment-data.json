@@ -1,0 +1,129 @@
+{
+  "rentProperties": [
+    {
+      "id": 1,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "6000",
+      "address":
+        "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "amenities": [
+        "parking",
+        "elevator",
+        "gym",
+        "pool",
+        "airConditioning"
+      ],
+      "description": "Cozy 1-bedroom apartment in city center with modern amenities"
+    },
+    {
+      "id": 2,
+      "title": "Cozy Shop in City Center",
+      "type": "shop",
+      "status": "available",
+      "areaSqFit": "580",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "8000",
+      "address":
+        "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "amenities": [
+        "parking",
+        "elevator",
+        "gym",
+        "pool",
+        "airConditioning"
+      ],
+      "description": "Cozy 1-bedroom shop in city center with modern amenities"
+    },
+    {
+      "id": 3,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "6000",
+      "address":
+        "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "amenities": [
+        "parking",
+        "elevator",
+        "gym",
+        "pool",
+        "airConditioning"
+      ],
+      "description": "Cozy 1-bedroom apartment in city center with modern amenities"
+    },
+    {
+      "id": 4,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "6000",
+      "address":
+        "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "amenities": [
+        "parking",
+        "elevator",
+        "gym",
+        "pool",
+        "airConditioning"
+      ],
+      "description": "Cozy 1-bedroom apartment in city center with modern amenities"
+    },
+    {
+      "id": 5,
+      "title": "Cozy Apartment in City Center",
+      "type": "apartment",
+      "status": "available",
+      "areaSqFit": "480",
+      "rooms": 1,
+      "bathrooms": 1,
+      "price": "6000",
+      "address":
+        "704 Sarvoday nagar, jambhul phata road chikhaloli ambarnath west 421 505",
+      "images": [
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg",
+        "/assets/minh-pham-7pCFUybP_P8-unsplash.jpg",
+        "/assets/minh-pham-OtXADkUh3-I-unsplash.jpg"
+      ],
+      "amenities": [
+        "parking",
+        "elevator",
+        "gym",
+        "pool",
+        "airConditioning"
+      ],
+      "description": "Cozy 1-bedroom apartment in city center with modern amenities"
+    }
+  ]
+}
